@@ -1,0 +1,11 @@
+Resumen 3 
+
+En esta parte de la unidad nos enfocamos en las herramientas que hacen posible el trabajo colaborativo: Git y GitHub. Aprendimos que Git es el sistema que corre en nuestra computadora para controlar las versiones localmente, mientras que GitHub es la plataforma en la nube donde guardamos y compartimos esos proyectos. Vimos desde la configuración inicial hasta las instrucciones básicas (como add, commit y push) para mantener nuestro código organizado y seguro.
+
+Diferencia entre Git y GitHub: Uno es la herramienta técnica y el otro es el servicio de almacenamiento y colaboración.
+
+Comandos esenciales: Entender el flujo de trabajo (Staging -> Local Repository -> Remote Repository).
+
+El historial de cambios: La capacidad de ver exactamente qué se hizo en el pasado y poder regresar a una versión estable si algo sale mal.
+
+Lo más confuso fue entender el flujo de los archivos antes de guardarlos. Al principio, se me olvidaba que después de hacer un cambio hay que usar git add para prepararlo y luego el commit. También, el concepto de "ramas" (branches) puede ser un poco retador al imaginar cómo se dividen y luego se vuelven a juntar, pero practicar con el repositorio vacío ayudó a que hiciera clic.

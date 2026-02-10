@@ -1,0 +1,12 @@
+Resumen 1
+En esta unidad aprendimos las bases de cómo funciona la tecnología desde cero. Empezamos con el sistema binario, entendiendo que las computadoras solo procesan ceros y unos. Luego vimos que para que esos números hagan algo útil, necesitamos la lógica y los algoritmos (pasos ordenados para resolver problemas). Finalmente, vimos que la programación es la forma de darle esas instrucciones a la máquina usando herramientas como editores de texto o entornos de desarrollo más completos (IDEs).
+
+Para mí, lo más importante fue:
+
+El lenguaje binario: Es increíble que todo lo digital se resuma en estados de encendido y apagado.
+
+Algoritmos: Entender que programar no es solo escribir código, sino saber estructurar una solución paso a paso.
+
+Herramientas de trabajo: La diferencia entre un editor simple y un IDE, y cómo estos últimos nos facilitan la vida al programar.
+
+Lo que más me costó trabajo fue aterrizar el concepto de lógica booleana aplicada a los circuitos, ya que pensar en términos de "verdadero o falso" para que una computadora tome decisiones parece simple, pero tiene su truco. También me tomó un poco de tiempo entender la diferencia exacta entre un algoritmo y el código final, pero los videos de la unidad ayudaron mucho a despejar las dudas.

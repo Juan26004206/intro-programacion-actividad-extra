@@ -1,0 +1,13 @@
+Resumen 2
+
+En esta sección nos metimos de lleno a las reglas del juego de la programación. Aprendimos que los datos son la materia prima (como números o texto) y que los operadores nos permiten manipularlos. Pero lo más importante fue ver cómo el código deja de ser una lista plana y empieza a tomar decisiones mediante estructuras condicionales (si pasa esto, haz aquello) y bucles, que nos ahorran trabajo repitiendo tareas automáticamente hasta que se cumpla una condición.
+
+Los puntos que me parecieron clave son:
+
+Tipos de datos: Entender la diferencia entre un número entero, un decimal y una cadena de texto es fundamental para que el programa no truene.
+
+Condicionales (If/Else): Es la base de la lógica; literal es darle "cerebro" al programa para que elija rutas distintas.
+
+Bucles (Loops): Conceptos como el for o el while son súper potentes para manejar grandes cantidades de datos sin escribir mil líneas de código.
+
+Lo que más me dio vueltas en la cabeza fue la lógica de los bucles. A veces es confuso entender cuándo va a terminar de ejecutarse una repetición o cómo evitar un "bucle infinito" que congele la computadora. También, al principio cuesta un poco acostumbrarse a la sintaxis de los operadores lógicos (como los && o ||), pero practicando con los ejemplos de los videos se vuelve más natural.
